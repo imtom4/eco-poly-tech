@@ -1,4 +1,3 @@
-# eco-poly-tech #
 ## Ecology-friendly Projects of Kyiv Polytech university ##
 hello all, welcome to EPT! 
 ---
